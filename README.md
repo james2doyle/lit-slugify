@@ -1,5 +1,5 @@
-String Trim
-=============
+Slugify
+=======
 
 This was inspired by [simov/slugify](https://github.com/simov/slugify).
 
